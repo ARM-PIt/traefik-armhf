@@ -23,7 +23,7 @@ LABEL description="Modern HTTP reverse proxy and load balancer" \
       maintainer="ARM-PIt" \
       traefik_version="${TRAEFIK_VERSION}" \
       project_url="https://docs.traefik.io/" \
-      alpine_version="3.11" \
+      alpine_version="3.12" \
       architecture="armhf"
 
 EXPOSE 80 8080 443
