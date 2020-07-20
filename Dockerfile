@@ -2,7 +2,7 @@
 ARG DOCKER_DIGEST=$DOCKER_DIGEST
 FROM alpine@$DOCKER_DIGEST
 
-ARG TRAEFIK_VERSION=2.2.5
+ARG TRAEFIK_VERSION=2.2.6
 
 RUN apk --no-cache update && \
     apk --no-cache upgrade && \
