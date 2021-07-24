@@ -29,4 +29,4 @@ build_type: "${build_type}",
 image_name: "traefik-armhf",
 registry_path: "armpits",
 registry_url: "https://docker.io",
-docker_digest: "sha256:c929c5ca1d3f793bfdd2c6d6d9210e2530f1184c0f488f514f1bb8080bb1e82b"
+docker_digest: "sha256:8d99168167baa6a6a0d7851b9684625df9c1455116a9601835c2127df2aaa2f5"
